@@ -16,10 +16,10 @@ author:
 
 #-------------------------------
 # Hero Settings
-hero:
-  title: NoSho
-  description: NoSho is all the stuff I don't want to tell people about
-  image: "" # '/images/01.jpg'
+#hero:
+#  title: NoSho
+#  description: NoSho is all the stuff I don't want to tell people about
+#  image: "" # '/images/01.jpg'
 
 
 #-------------------------------

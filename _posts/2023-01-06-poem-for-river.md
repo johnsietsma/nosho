@@ -3,7 +3,7 @@ layout: post
 title:  Poem for River
 date:   2023-01-06
 image:  '/images/berrara_river.jpg'
-tags:   Poem
+tags:   poem
 ---
     Rivers start up high
         in the mountains
